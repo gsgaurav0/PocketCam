@@ -1,0 +1,4 @@
+#Fri Jan 16 23:12:56 IST 2026
+base.0=/home/gaurav/Desktop/web-dro/android/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+path.0=0/classes.dex
+renamed.0=classes.dex

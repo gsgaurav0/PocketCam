@@ -1,0 +1,36 @@
+R_DEF: Internal format may change without notice
+local
+color accent_green
+color app_background
+color black
+color info_box_bg
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color text_primary
+color text_secondary
+color white
+drawable app_logo
+drawable ic_android_green
+drawable ic_more_vert
+drawable ic_wifi_white
+drawable pocketcam_logo
+id action_creator_info
+id action_how_to_use
+id btnContainer
+id btnMenu
+id btnStart
+id btnStop
+id cardInfo
+id tvAppName
+id tvIp
+id tvPort
+layout activity_main
+menu menu_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+style Theme.WebDro
+xml backup_rules
+xml data_extraction_rules

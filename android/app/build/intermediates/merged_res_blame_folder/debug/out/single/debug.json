@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/home/gaurav/.gradle/daemon/9.0-milestone-1/com.example.webdro.app-merged_res-37:/drawable_app_logo.png.flat",
+        "source": "/home/gaurav/.gradle/daemon/9.0-milestone-1/com.example.webdro.app-main-39:/drawable/app_logo.png"
+    },
+    {
+        "merged": "com.example.webdro.app-merged_res-37:/layout_activity_main.xml.flat",
+        "source": "com.example.webdro.app-main-39:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/gaurav/.gradle/daemon/9.0-milestone-1/com.example.webdro.app-merged_res-37:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/gaurav/.gradle/daemon/9.0-milestone-1/com.example.webdro.app-main-39:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/gaurav/.gradle/daemon/9.0-milestone-1/com.example.webdro.app-merged_res-37:/drawable_ic_wifi_white.xml.flat",
+        "source": "/home/gaurav/.gradle/daemon/9.0-milestone-1/com.example.webdro.app-main-39:/drawable/ic_wifi_white.xml"
+    },
+    {
+        "merged": "/home/gaurav/.gradle/daemon/9.0-milestone-1/com.example.webdro.app-merged_res-37:/drawable_ic_android_green.xml.flat",
+        "source": "/home/gaurav/.gradle/daemon/9.0-milestone-1/com.example.webdro.app-main-39:/drawable/ic_android_green.xml"
+    },
+    {
+        "merged": "/home/gaurav/.gradle/daemon/9.0-milestone-1/com.example.webdro.app-merged_res-37:/xml_backup_rules.xml.flat",
+        "source": "/home/gaurav/.gradle/daemon/9.0-milestone-1/com.example.webdro.app-main-39:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.webdro.app-merged_res-37:/drawable_ic_more_vert.xml.flat",
+        "source": "com.example.webdro.app-main-39:/drawable/ic_more_vert.xml"
+    },
+    {
+        "merged": "/home/gaurav/.gradle/daemon/9.0-milestone-1/com.example.webdro.app-merged_res-37:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/gaurav/.gradle/daemon/9.0-milestone-1/com.example.webdro.app-main-39:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/home/gaurav/.gradle/daemon/9.0-milestone-1/com.example.webdro.app-merged_res-37:/drawable_pocketcam_logo.png.flat",
+        "source": "/home/gaurav/.gradle/daemon/9.0-milestone-1/com.example.webdro.app-main-39:/drawable/pocketcam_logo.png"
+    },
+    {
+        "merged": "/home/gaurav/.gradle/daemon/9.0-milestone-1/com.example.webdro.app-merged_res-37:/layout_activity_main.xml.flat",
+        "source": "/home/gaurav/.gradle/daemon/9.0-milestone-1/com.example.webdro.app-main-39:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.webdro.app-merged_res-37:/menu_menu_main.xml.flat",
+        "source": "com.example.webdro.app-main-39:/menu/menu_main.xml"
+    },
+    {
+        "merged": "/home/gaurav/.gradle/daemon/9.0-milestone-1/com.example.webdro.app-merged_res-37:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/gaurav/.gradle/daemon/9.0-milestone-1/com.example.webdro.app-main-39:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    }
+]

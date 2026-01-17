@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_how_to_use"
+        android:title="How to use this app" />
+    <item
+        android:id="@+id/action_creator_info"
+        android:title="Creator Info" />
+</menu>
